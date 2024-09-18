@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #29b1bd;
+    color: rgb(18, 40, 56);
+}
+
+.search {
+    margin: 20px;
+}
+
+.input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.B {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.temp, .city, .humidity, .wind {
+    margin: 5px 0;
+}
+
